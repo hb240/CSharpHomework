@@ -29,7 +29,14 @@ namespace PrimeLess100
             }
             //输出2-100之间的素数
             for (int k = 0; k < num; k++)
-                Console.WriteLine(prime[k]);
+            {
+                Console.Write(prime[k]);
+                if ((k+1) % 5 == 0)                                                   //以一行5个数输出
+                    Console.WriteLine();
+                else
+                    Console.Write("\t");
+            }
+
             Console.ReadLine();
         }
     }

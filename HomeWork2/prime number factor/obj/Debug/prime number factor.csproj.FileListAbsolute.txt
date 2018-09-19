@@ -1,0 +1,14 @@
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\bin\Debug\prime number factor.exe.config
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\bin\Debug\prime number factor.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\bin\Debug\prime number factor.pdb
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\obj\Debug\prime number factor.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\obj\Debug\prime number factor.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\obj\Debug\prime number factor.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\prime number factor\prime number factor\obj\Debug\prime number factor.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\bin\Debug\prime number factor.exe.config
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\bin\Debug\prime number factor.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\bin\Debug\prime number factor.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\obj\Debug\prime number factor.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\obj\Debug\prime number factor.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\obj\Debug\prime number factor.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\prime number factor\obj\Debug\prime number factor.pdb

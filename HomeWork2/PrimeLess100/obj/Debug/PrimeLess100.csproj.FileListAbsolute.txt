@@ -1,0 +1,7 @@
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\bin\Debug\PrimeLess100.exe.config
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\bin\Debug\PrimeLess100.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\bin\Debug\PrimeLess100.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\obj\Debug\PrimeLess100.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\obj\Debug\PrimeLess100.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\obj\Debug\PrimeLess100.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\PrimeLess100\obj\Debug\PrimeLess100.pdb

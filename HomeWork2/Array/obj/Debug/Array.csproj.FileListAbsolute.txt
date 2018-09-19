@@ -1,0 +1,7 @@
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\bin\Debug\Array.exe.config
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\bin\Debug\Array.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\bin\Debug\Array.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\obj\Debug\Array.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork2\Array\obj\Debug\Array.pdb
