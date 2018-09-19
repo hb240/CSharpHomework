@@ -36,7 +36,6 @@ namespace PrimeLess100
                 else
                     Console.Write("\t");
             }
-
             Console.ReadLine();
         }
     }
