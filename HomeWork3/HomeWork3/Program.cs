@@ -156,7 +156,7 @@ namespace HomeWork3
             }
             else
 		    {
-			    throw new Exception("对不起，没有该图形！");
+			    Console.WriteLine("对不起，没有该图形！");
 		    }
             return shape;  
         }  
