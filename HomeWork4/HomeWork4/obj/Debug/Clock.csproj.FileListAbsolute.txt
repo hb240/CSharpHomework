@@ -1,0 +1,7 @@
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
