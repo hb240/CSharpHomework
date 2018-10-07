@@ -59,7 +59,7 @@ namespace HomeWork4
         //处理方法1：闹铃时间到，显示提示
         private static void OnTimedEvent(object source, ElapsedEventArgs e)
         {
-            Console.WriteLine("时间已到！");
+            Console.WriteLine("时间已到！"+"\a");
         }
     }
 }
