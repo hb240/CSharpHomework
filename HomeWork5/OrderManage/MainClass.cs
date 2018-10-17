@@ -17,6 +17,7 @@ namespace OrderManage
             Goods fruit = new Goods("fruit", 5);
             Goods chips = new Goods("chips", 4);
             Goods cookies = new Goods("cookies", 5);
+            Goods laptop = new Goods("laptop", 9999);
 
             OrderDetail orderDetails1 = new OrderDetail(1, milk, 1);
             OrderDetail orderDetails2 = new OrderDetail(2, fruit, 4);
@@ -24,6 +25,7 @@ namespace OrderManage
             OrderDetail orderDetails4 = new OrderDetail(4, chips, 4);
             OrderDetail orderDetails5 = new OrderDetail(5, chips, 3);
             OrderDetail orderDetails6 = new OrderDetail(6, cookies, 2);
+            OrderDetail orderDetails7 = new OrderDetail(7, laptop, 1);
 
             Order order1 = new Order(1, customer1);
             Order order2 = new Order(2, customer2);
@@ -31,6 +33,7 @@ namespace OrderManage
             order1.AddDetails(orderDetails1);
             order1.AddDetails(orderDetails2);
             order1.AddDetails(orderDetails4);
+            order1.AddDetails(orderDetails7);
             //order1.AddDetails(orderDetails6);
             order2.AddDetails(orderDetails1);
             order2.AddDetails(orderDetails3);
@@ -60,6 +63,9 @@ namespace OrderManage
             Console.WriteLine("Remove order(id=2) and qurey all");
             client.Removeorder(2);
             client.Queryallorders().ForEach(order => Console.WriteLine(order));
+
+            Console.WriteLine("GetOrderByOrderMoney price>10000");
+            client.Querybymoney().ForEach(order => Console.WriteLine(order));
 
             Console.ReadLine();
         }

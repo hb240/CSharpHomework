@@ -19,6 +19,18 @@ namespace OrderManage
         {
             get => this.details;
         }
+        
+        //订单总价
+        public double Money
+        {
+            get
+            {
+                double money = 0;
+                foreach (OrderDetail od in details)
+                    money += od.Goods.Price * od.Quantity;
+                return money;
+            }
+        }
 
         public Order(uint orderId,Customer customer)
         {

@@ -17,32 +17,32 @@ namespace CayleyTree
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             if (graphics == null) graphics = this.CreateGraphics();
-            drawCayleyTree(10, 200, 310, 100, -Math.PI / 2);
+            DrawCayleyTree(10, 200, 310, 100, -Math.PI / 2);
         }
 
         private Graphics graphics;
         double th1 = 30 * Math.PI / 180;
         double th2 = 20 * Math.PI / 180;
-        double per1 = 0.6;
-        double per2 = 0.7;
+        double per1 = 0.7;
+        double per2 = 0.6;
 
-        void drawCayleyTree(int n,double x0,double y0,double leng,double th)
+        void DrawCayleyTree(int n,double x0,double y0,double leng,double th)
         {
             if (n == 0) return;
 
             double x1 = x0 + leng * Math.Cos(th);
             double y1 = y0 + leng * Math.Sin(th);
 
-            drawLine(x0, y0, x1, y1);
+            DrawLine(x0, y0, x1, y1);
 
-            drawCayleyTree(n - 1, x1, y1, per1 * leng, th + th1);
-            drawCayleyTree(n - 1, x1, y1, per2 * leng, th - th2);
+            DrawCayleyTree(n - 1, x1, y1, per1 * leng, th + th1);
+            DrawCayleyTree(n - 1, x1, y1, per2 * leng, th - th2);
         }
 
-        void drawLine(double x0,double y0,double x1,double y1)
+        void DrawLine(double x0,double y0,double x1,double y1)
         {
             graphics.DrawLine(
                 Pens.Blue,

@@ -67,5 +67,11 @@ namespace OrderManage
                     }
             return result;
         }
+
+        //通过订单金额来查询
+        public List<Order> Querybymoney()
+        {
+            return orderList.Where(order => order.Money > 10000).ToList();
+        }
     }
 }
