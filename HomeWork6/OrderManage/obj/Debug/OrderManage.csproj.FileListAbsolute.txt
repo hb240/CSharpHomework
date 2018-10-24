@@ -1,0 +1,14 @@
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\bin\Debug\OrderManage.exe.config
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\bin\Debug\OrderManage.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\bin\Debug\OrderManage.pdb
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\obj\Debug\OrderManage.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\obj\Debug\OrderManage.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\obj\Debug\OrderManage.exe
+C:\Users\Bsrsycz\Source\Repos\CSharpHomework\HomeWork5\OrderManage\obj\Debug\OrderManage.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\bin\Debug\OrderManage.exe.config
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\bin\Debug\OrderManage.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\bin\Debug\OrderManage.pdb
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\obj\Debug\OrderManage.csprojAssemblyReference.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\obj\Debug\OrderManage.csproj.CoreCompileInputs.cache
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\obj\Debug\OrderManage.exe
+C:\Users\Bsrsycz\source\repos\CSharpHomework\HomeWork6\OrderManage\obj\Debug\OrderManage.pdb
