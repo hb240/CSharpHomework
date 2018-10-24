@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
+using System.IO;
 
 namespace OrderManage.Tests
 {
@@ -37,7 +39,15 @@ namespace OrderManage.Tests
         [TestMethod()]
         public void ExportTest()
         {
-            Assert.Fail();
+            Customer customer1 = new Customer(1, "customer1");
+            Goods milk = new Goods("milk", 88);
+            OrderDetail orderDetails1 = new OrderDetail(1, milk, 1);
+            Order order1 = new Order(1, customer1);
+            OrderService client = new OrderService();
+            client.Addorder(order1);
+            XmlSerializer xmlser = new XmlSerializer(typeof(List<Order>));
+            client.Export(xmlser, "orderlist.xml");
+            Assert.IsNotNull(FileStream fs);
         }
 
         [TestMethod()]
