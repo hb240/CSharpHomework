@@ -71,5 +71,10 @@ namespace Client
         {
             new Form2().ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form3().ShowDialog();
+        }
     }
 }
